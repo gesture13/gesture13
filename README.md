@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gesture13
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning C#, Python
+- 👋 Hi, I’m Alamsyah Putra
+- 👀 I’m interested in Techonology
+- 🌱 I’m currently learning C#, Python, C++, C, JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
